@@ -1,0 +1,9 @@
+.table{
+    border-width:1px;
+    border-style:ridge
+}
+.td{
+    border-width: 1px;
+    border-style: ridge;
+    align-content: center
+}
